@@ -1,0 +1,21 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.zip
+*.rar
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+config.py
